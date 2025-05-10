@@ -5,12 +5,12 @@ require('dotenv').config();
 const toBool = (value) => value === "true";
 
 // Owner & Bot Details
-global.owner = process.env.OWNER_NUMBER;
-global.anitav4 = process.env.BOT_NAME || "𝐐𝐔𝐄𝐄𝐍_𝐀𝐍𝐈𝐓𝐀-𝐕𝟒";
-global.ownername = process.env.OWNER_NAME || "David Cyril";
-global.packname = process.env.PACK_NAME || "𝐐𝐔𝐄𝐄𝐍_𝐀𝐍𝐈𝐓𝐀-𝐕𝟒";
-global.author = process.env.AUTHOR || "𝐃𝐀𝐕𝐈𝐃 𝐂𝐘𝐑𝐈𝐋";
-global.channelname = process.env.CHANNEL_NAME || "𝐃𝐀𝐕𝐈𝐃 𝐂𝐘𝐑𝐈𝐋";
+global.owner = process.env.OWNER_NUMBER;"917973456275"
+global.anitav4 = process.env.BOT_NAME || "𝚸𝚮𝚯𝚵𝚴𝚰𝚾";
+global.ownername = process.env.OWNER_NAME || "𝚸𝚮𝚯𝚵𝚴𝚰𝚾 𝐅𝐔𝚪𝐘";
+global.packname = process.env.PACK_NAME || "𝚸𝚮𝚯𝚵𝚴𝚰𝚾";
+global.author = process.env.AUTHOR || 𝚸𝚮𝚯𝚵𝚴𝚰𝚾";
+global.channelname = process.env.CHANNEL_NAME || "𝚸𝚮𝚯𝚵𝚴𝚰𝚾";
 global.channeljid = process.env.CHANNEL_JID || "120363315231436175@newsletter";
 
 // Auto-Features
